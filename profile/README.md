@@ -15,7 +15,7 @@
 
 ---
 
-**Clew** is an CLI for AI-assisted software development — built for developers who want full control over their tools.
+**Clew** CLI for AI-assisted software development — built for developers who want full control over their tools.
 
 ```sh
 npm install -g clew-code
