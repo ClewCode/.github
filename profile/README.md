@@ -27,19 +27,6 @@ clew
 
 ---
 
-## What makes Clew different
-
-| | |
-|---|---|
-| **27 AI providers** | Anthropic, OpenAI, Google, DeepSeek, Ollama, xAI, Groq, Mistral, Cohere, OpenRouter, GitHub Copilot, and more — switch mid-session with `/model` |
-| **80+ slash commands** | From `/code-review` and `/pr` to `/peer`, `/daemon`, `/task`, and `/taste` |
-| **Plugin system** | Hooks, skills, agents, MCP servers — extend anything |
-| **Preference learning** | `/taste` learns your coding style from accept/reject/edit signals |
-| **Peer-to-peer** | LAN discovery, task delegation, and autonomous AI coordination across machines |
-| **Runs everywhere** | Windows, macOS, Linux, WSL2 |
-
----
-
 ## Repositories
 
 | Repo | Description |
